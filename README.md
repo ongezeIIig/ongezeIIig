@@ -15,5 +15,6 @@
  <p align="center"> ≽^-⩊-^≼
 
 
-![1hkrpi](https://github.com/user-attachments/assets/11734503-8fe0-45d8-945e-c5240f667930)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0bc36a84-829c-4da5-85fa-d8903275a1a2" />
+</p>
