@@ -1,10 +1,15 @@
 <p align="center">
-<img width="1000" height="100" alt="Untitled232_20251019000447" src="https://github.com/user-attachments/assets/01285303-d1f8-41a6-8a7b-382e46662f8b" />
+<img width="1280" height="168" alt="tumblr_784e6a913796ca57e45eda59fd00ab4f_0f5bc6d6_1280" src="https://github.com/user-attachments/assets/b8ba5424-a60a-445c-9872-ccf364a6fa46" />
 
-
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1ef36129-661c-43f2-82a2-f701768aefd3" width="400" />
 </p>
-<img width="3000" height="1332" alt="mymymy borf" src="https://github.com/user-attachments/assets/5b5497e0-1757-407b-800c-91b332068f8c" />
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/faf83554-ae13-46f7-9cf5-11e4321b1a21" width="400" />
+</p>
+
 
 
 <p align="center">
@@ -18,3 +23,8 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0bc36a84-829c-4da5-85fa-d8903275a1a2" />
 </p>
+
+
+
+
+
