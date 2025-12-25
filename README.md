@@ -2,10 +2,6 @@
   <img src="https://komarev.com/ghpvc/?username=ongezeLLig&label=fans&color=FF8800" alt="fans">
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1ef36129-661c-43f2-82a2-f701768aefd3" width="400" />
-</p>
-
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/faf83554-ae13-46f7-9cf5-11e4321b1a21" width="400" />
