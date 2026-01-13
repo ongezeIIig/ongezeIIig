@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://64.media.tumblr.com/c2f34775216159eb5c9ea0ac5363093e/3c74d06b377fdc9b-f8/s500x750/a5a089864e338f265d3159fccb896853d0ea6be7.gif" width="1000" />
+  <img src="https://github.com/user-attachments/assets/60f0cef0-2eec-4ca7-953f-cff8b47c9f3d" width="1000" />
 </p>
 
 
@@ -21,4 +21,8 @@
   
  <p align="center"> (˵ ¬ᴗ¬˵)
 
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cfd8045a-7cb6-43cd-abaa-00b238b030f0" height="100" style="margin: 0 10px;" />
+  <img src="https://github.com/user-attachments/assets/85173d95-4c2b-41a9-90b2-812f1ad2cc66" height="100" style="margin: 0 10px;" />
+  <img src="https://github.com/user-attachments/assets/261040c3-a4af-44e3-a039-68f14fa1cfcc" height="60" style="margin: 0 10px;" />
+</p>
