@@ -73,9 +73,9 @@
 <p align="center">
   <span>
     <img src="https://github.com/user-attachments/assets/ee90d503-a6be-4379-912c-a768b8279a0e" alt="nkpr cho stamp" width="99" />
-    <img src="https://github.com/user-attachments/assets/a3c682a7-d832-4e2f-b8de-9be9502731d9" alt="nkpr cross" width="99" />
+    <img src="https://github.com/user-attachments/assets/a3c682a7-d832-4e2f-b8de-9be9502731d9" alt="nkpr cross" width="30" />
     <img src="https://github.com/user-attachments/assets/040f059a-7ca7-4663-ac6a-8a93b6bcc8ec" alt="nkpr chovan stamp" width="99" />
-    <img src="https://github.com/user-attachments/assets/a3c682a7-d832-4e2f-b8de-9be9502731d9" alt="nkpr cross" width="99" />
+    <img src="https://github.com/user-attachments/assets/a3c682a7-d832-4e2f-b8de-9be9502731d9" alt="nkpr cross" width="30" />
     <img src="https://github.com/user-attachments/assets/4071b5d4-7419-46f6-a2e3-73e4303eb878" alt="nkpr van stamp" width="99" />
   </span>
 </p>
