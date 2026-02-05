@@ -1,28 +1,91 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/60f0cef0-2eec-4ca7-953f-cff8b47c9f3d" width="1000" />
-</p>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ongezeLLig&label=fans&color=FF8800" alt="fans">
-</p>
-
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c5e495e4-e047-42f2-9c1c-fbfd7cd585f7" width="450">
+  <img 
+    src="https://github.com/user-attachments/assets/412bc5aa-9eab-49eb-ba65-69f25bb05106"
+    alt="nkpr voya"
+    width="100%"
+  />
 </p>
 
 
 
 <p align="center">
-  <a href="https://stroopwaffen.straw.page">straw</a>
-  <img src="https://64.media.tumblr.com/82841c0f439b3ff42936a7cdc64a73a8/48ab18e98b53e06b-9c/s75x75_c1/10fbb6f3f5c16fdaf8288e08eb60bf73b990b07b.gif" alt="Example Image" width="20">
-<a href="https://voya.atabook.org/">ata</a>
+  <img src="https://komarev.com/ghpvc/?username=ongezeLLig&label=fans&color=000000" alt="fans">
+</p>
+
+
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/f28a6dfd-3adb-406c-a3eb-032ac678beac"
+    alt="nkpr bnner 2"
+    width="30%"
+  />
+</p>
+
+
+<p align="center">
+  <!-- Text 1 linked -->
+  <a href="https://stroopwaffen.straw.page/" target="_blank" style="text-decoration:none; font-size:24px; font-weight:bold;">
+    straw
+  </a>
+
+  <!-- GIF -->
+  <img src="https://github.com/user-attachments/assets/297fed89-f3dd-4cb1-ad88-a87563ada206" alt="nkpr bow" width="20" style="vertical-align:middle; margin:0 10px;" />
+
+  <!-- Text 2 linked -->
+  <a href="https://voya.atabook.org/" target="_blank" style="text-decoration:none; font-size:24px; font-weight:bold;">
+    ata
+  </a>
+
+  <!-- GIF -->
+  <img src="https://github.com/user-attachments/assets/297fed89-f3dd-4cb1-ad88-a87563ada206" alt="nkpr bow" width="20" style="vertical-align:middle; margin:0 10px;" />
+
+  <!-- Text 3 linked -->
+  <a href="https://prns.cc/lumes" target="_blank" style="text-decoration:none; font-size:24px; font-weight:bold;">
+    prns.cc
+  </a>
+</p>
+
+
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/0dcf20ba-b233-41dd-a312-b8037fdb0b51"
+    alt="nkpr heart 2 o_o"
+    width="80%"
+  />
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a038ac37-20c8-4c98-a9be-7521e0a2bbe5" alt="nkpr nyan" width="100" />
+  <img src="https://github.com/user-attachments/assets/297fed89-f3dd-4cb1-ad88-a87563ada206" alt="nkpr bow" width="20" />
+  <img src="https://github.com/user-attachments/assets/07925822-ae78-4724-8430-a32c612cd463" alt="nkpr prn 2" width="100" />
+</p>
+
   
- <p align="center"> (˵ ¬ᴗ¬˵)
+ <p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/8fa0507b-4057-4ca0-a095-1d4a70eafc5a"
+    alt="nkpr bnner 1"
+    width="30%"
+  />
+</p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cfd8045a-7cb6-43cd-abaa-00b238b030f0" height="100" style="margin: 0 10px;" />
-  <img src="https://github.com/user-attachments/assets/85173d95-4c2b-41a9-90b2-812f1ad2cc66" height="100" style="margin: 0 10px;" />
-  <img src="https://github.com/user-attachments/assets/261040c3-a4af-44e3-a039-68f14fa1cfcc" height="60" style="margin: 0 10px;" />
+  <span>
+    <img src="https://github.com/user-attachments/assets/ee90d503-a6be-4379-912c-a768b8279a0e" alt="nkpr cho stamp" width="99" />
+    <img src="https://github.com/user-attachments/assets/a3c682a7-d832-4e2f-b8de-9be9502731d9" alt="nkpr cross" width="99" />
+    <img src="https://github.com/user-attachments/assets/040f059a-7ca7-4663-ac6a-8a93b6bcc8ec" alt="nkpr chovan stamp" width="99" />
+    <img src="https://github.com/user-attachments/assets/a3c682a7-d832-4e2f-b8de-9be9502731d9" alt="nkpr cross" width="99" />
+    <img src="https://github.com/user-attachments/assets/4071b5d4-7419-46f6-a2e3-73e4303eb878" alt="nkpr van stamp" width="99" />
+  </span>
 </p>
+
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fd48e5bd-f5e3-4361-a510-dde2dec85380" />
+</p>
+
+
+
+
