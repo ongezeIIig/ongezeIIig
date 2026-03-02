@@ -41,8 +41,17 @@
 
   <!-- Text 3 linked -->
   <a href="https://prns.cc/lumes" target="_blank" style="text-decoration:none; font-size:24px; font-weight:bold;">
-    prns.cc
+    prns
   </a>
+
+  <!-- GIF -->
+  <img src="https://github.com/user-attachments/assets/297fed89-f3dd-4cb1-ad88-a87563ada206" alt="nkpr bow" width="20" style="vertical-align:middle; margin:0 10px;" />
+
+  <!-- Text 3 linked -->
+  <a href="https://rentry.co/marsee" target="_blank" style="text-decoration:none; font-size:24px; font-weight:bold;">
+    rentry
+  </a>
+    
 </p>
 
 
