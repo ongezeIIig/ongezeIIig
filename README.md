@@ -22,7 +22,7 @@
 <p align="center">
   <a href="https://stroopwaffen.straw.page/">straw</a> ⠀⠀⠀⠀
   <a href="https://voya.atabook.org/">新book</a>⠀⠀ ( ᵔ⩊ᵔ )⠀⠀
-  <a href="https://prns.cc/lumes">prns</a> ⠀⠀⠀⠀
+  <a href="https://prns.cc/lumes">prnsCC</a> ⠀⠀⠀⠀
   <a href="https://rentry.co/marsee">rentry</a>
 </p>
 ⠀
